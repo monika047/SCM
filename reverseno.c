@@ -25,3 +25,5 @@ while (original % 10 == 0) {
 
   return 0;
 }
+   if else:
+   break;

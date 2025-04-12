@@ -5,5 +5,7 @@ int main() {
    printf("hello,cse!");
    printf("hello,monika!);
    return 0;
+   cse;
+   ece;
 }
 

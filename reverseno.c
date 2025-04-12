@@ -25,5 +25,7 @@ while (original % 10 == 0) {
 
   return 0;
 }
+ HEAD
    if else:
-   break;
+   print{"zero"};
+ test

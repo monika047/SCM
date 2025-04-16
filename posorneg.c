@@ -10,4 +10,5 @@ int main() {
     if (num <= 0.0) {
         if (num == 0.0)
             printf("You entered 0.");
-
+            printf("name enterd 0.");
+	    printf("class enterd 0.");

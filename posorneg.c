@@ -1,3 +1,5 @@
+        else
+            printf("You entered a negative number.");
 #include <stdio.h>
 
 int main() {

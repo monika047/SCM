@@ -5,4 +5,5 @@ b tech
 
 MONIKA
 CSE
-
+AIML
+B TECH

@@ -13,4 +13,4 @@ int main() {
    return 0;
 }
 printf("/n");
-printf("/moni");
+printf("/bindu");

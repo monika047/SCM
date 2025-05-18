@@ -7,4 +7,5 @@ int main() {
   scanf("%lf", &second);
   temp = first;
   scanf("%lf", &second);
- 
+ second = temp;
+

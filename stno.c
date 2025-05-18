@@ -6,4 +6,5 @@ int main() {
   printf("Enter second number: ");
   scanf("%lf", &second);
   temp = first;
-
+  scanf("%lf", &second);
+ 
